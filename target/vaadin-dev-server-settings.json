@@ -1,0 +1,17 @@
+{
+  "frontendFolder": "/Users/gabriel/Downloads/projeto-final-vivencias-main/frontend",
+  "themeFolder": "themes",
+  "themeResourceFolder": "/Users/gabriel/Downloads/projeto-final-vivencias-main/frontend/generated/jar-resources",
+  "staticOutput": "/Users/gabriel/Downloads/projeto-final-vivencias-main/target/classes/META-INF/VAADIN/webapp/VAADIN/static",
+  "generatedFolder": "generated",
+  "statsOutput": "/Users/gabriel/Downloads/projeto-final-vivencias-main/target/classes/META-INF/VAADIN/config",
+  "frontendBundleOutput": "/Users/gabriel/Downloads/projeto-final-vivencias-main/target/classes/META-INF/VAADIN/webapp",
+  "devBundleOutput": "/Users/gabriel/Downloads/projeto-final-vivencias-main/src/main/dev-bundle/webapp",
+  "devBundleStatsOutput": "/Users/gabriel/Downloads/projeto-final-vivencias-main/src/main/dev-bundle/config",
+  "jarResourcesFolder": "/Users/gabriel/Downloads/projeto-final-vivencias-main/frontend/generated/jar-resources",
+  "themeName": "css",
+  "clientServiceWorkerSource": "/Users/gabriel/Downloads/projeto-final-vivencias-main/target/sw.ts",
+  "pwaEnabled": false,
+  "offlineEnabled": false,
+  "offlinePath": "'offline.html'"
+}
