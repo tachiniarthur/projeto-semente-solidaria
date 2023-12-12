@@ -1,0 +1,57 @@
+vaadin-login-form-wrapper{
+    border-radius: 20px;
+    background-color: #fff !important;
+}
+
+body {
+    background-color: #ffffff;
+    --lumo-primary-color: #000000;
+    --lumo-primary-text-color: #000000;
+    --lumo-header-text-color: #000000;
+}
+
+vaadin-app-layout::part(drawer) {
+    background-color: #ffffff !important;
+    border-right: #fff 1px solid;
+}
+
+vaadin-app-layout::part(navbar) {
+    background-color: #ffffff !important;
+    color: #000000;
+}
+
+vaadin-grid::part(cell) {
+    background-color: #ffffff !important;
+    color: #000000;
+}
+
+vaadin-grid {
+    background-color: #ffffff !important;
+}
+
+label {
+    color: #000000;
+}
+
+input {
+    color: #000000;
+}
+
+.field-error {
+    border: 2px solid red;
+}
+
+.allButtons {
+    cursor: pointer;
+}
+
+.buttonForget {
+    background-color: transparent;
+    border: none;
+    outline: none;
+}
+
+.drawer-style {
+    border-right: 1px solid black !important;
+    background-color: #fff !important;
+}
