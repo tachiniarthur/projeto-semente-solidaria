@@ -37,7 +37,7 @@ public class DeleteProductView extends VerticalLayout implements BeforeEnterObse
 
         Button voltarButton = new Button("Cancelar Exclusão");
         voltarButton.addClickListener(e -> {
-            UI.getCurrent().navigate(CollectionView.class);
+            UI.getCurrent().navigate(ProductView.class);
         });
         voltarButton.addClassName("allButtons");
         voltarButton.addThemeVariants(ButtonVariant.LUMO_PRIMARY);
