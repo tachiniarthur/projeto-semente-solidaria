@@ -1,6 +1,10 @@
 # Semente Solidária
 
-Este projeto foi desenvolvido para uma comunidade que recebe e realiza diversas doações, incluindo alimentos, brinquedos, dinheiro e outros tipos de utensílios.
+O Projeto Semente Solidária, é a parte de ajuda comunitária da igreja Mevam Joinville, tendo o propósito social de ajudar pessoas , famílias, em suas necessidades materiais (alimentos, roupas), financeiras (controle financeiro, oportunidades de trabalho) e até psicológicas (sessões e acompanhamento com psicóloga). Eles possuem um "Celeiro", onde armazenam as doações. Essas doações são destinadas para pessoas ou famílias que estão em uma situações delicadas necessitando de ajuda, sendo possível também entrar nesse celeiro e escolher os produtos desejados.
+
+---
+
+## Tela inicial do Webapp
 
 <img src="https://i.imgur.com/UsY5Soi.png">
 
